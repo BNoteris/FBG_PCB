@@ -862,6 +862,12 @@
 		(uuid "277531d9-4326-448a-885d-2e1b04a15e10")
 	)
 	(junction
+		(at 222.25 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "279526f5-2d78-4d2f-96c2-65049cccb74c")
+	)
+	(junction
 		(at 58.42 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -904,6 +910,12 @@
 		(uuid "49871d5e-c4c5-4f2b-9f74-cf838055ea51")
 	)
 	(junction
+		(at 222.25 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ea919b3-dd5f-4c8b-91be-973addbd2d77")
+	)
+	(junction
 		(at 82.55 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -916,6 +928,12 @@
 		(uuid "57612693-d490-4aa1-ac9c-c9dbad0846a8")
 	)
 	(junction
+		(at 222.25 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b53b77e-899f-4775-84e7-981e34906605")
+	)
+	(junction
 		(at 85.09 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -926,6 +944,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d32b68c-27fe-4ecb-adcd-47103b2a5db5")
+	)
+	(junction
+		(at 222.25 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f2091a7-2b60-4685-a58a-21eacf0751eb")
 	)
 	(junction
 		(at 86.36 25.4)
@@ -958,10 +982,28 @@
 		(uuid "66ee8e5f-3b19-48d9-a969-3121c3f4b4a9")
 	)
 	(junction
+		(at 222.25 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6987f879-0b47-4423-8545-35566364cb6f")
+	)
+	(junction
 		(at 114.3 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69987ad1-9926-4947-9312-3744c392191a")
+	)
+	(junction
+		(at 213.36 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d4ad45e-27d3-4141-b0de-9f466500b158")
+	)
+	(junction
+		(at 222.25 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "749ef8e0-c82f-4358-bf5c-76824009569f")
 	)
 	(junction
 		(at 163.83 149.86)
@@ -994,6 +1036,12 @@
 		(uuid "7d5eaed5-ba70-4826-94e9-eb53cbd3ff2a")
 	)
 	(junction
+		(at 222.25 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d952640-2095-40ea-9c18-d32447026372")
+	)
+	(junction
 		(at 120.65 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1006,16 +1054,16 @@
 		(uuid "7e554258-e6a7-4ff4-9ef6-ac6ed6c45db0")
 	)
 	(junction
-		(at 58.42 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7fd304f6-f6e1-4e79-bf33-9be66c5230e1")
-	)
-	(junction
 		(at 53.34 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "823d5508-f9f7-4071-8851-ae939c047ed9")
+	)
+	(junction
+		(at 222.25 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "867fdfd7-ee5e-4b90-a50b-fbd48faab69e")
 	)
 	(junction
 		(at 143.51 25.4)
@@ -1096,6 +1144,12 @@
 		(uuid "ad860f95-cb64-4c54-b3dc-c2fab2ff1209")
 	)
 	(junction
+		(at 58.42 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6552c60-2049-4c52-9ce0-6fb0290b8c7f")
+	)
+	(junction
 		(at 163.83 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1156,6 +1210,12 @@
 		(uuid "d4390db3-8233-4c32-9336-f8a4562e31cf")
 	)
 	(junction
+		(at 222.25 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9301ea1-ae13-43c2-b235-2a9a8ad47a60")
+	)
+	(junction
 		(at 207.01 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1186,6 +1246,12 @@
 		(uuid "e195a27f-6451-48c1-80a5-d90546713006")
 	)
 	(junction
+		(at 222.25 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e560802b-52eb-41c6-8285-2a174e8d97ef")
+	)
+	(junction
 		(at 102.87 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1214,6 +1280,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f50643d6-6f7c-4a14-bef5-2e53952ace16")
+	)
+	(junction
+		(at 213.36 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7136921-c897-4a02-a8bf-e2a4501d5b82")
 	)
 	(junction
 		(at 185.42 149.86)
@@ -1259,16 +1331,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 55.88) (xy 53.34 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0241ef01-4d15-4942-b721-097a7c61a0f6")
-	)
-	(wire
-		(pts
 			(xy 173.99 102.87) (xy 149.86 102.87)
 		)
 		(stroke
@@ -1309,6 +1371,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 74.93) (xy 231.14 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0716315a-d413-42c9-a087-131771451a56")
+	)
+	(wire
+		(pts
 			(xy 181.61 114.3) (xy 228.6 114.3)
 		)
 		(stroke
@@ -1316,6 +1388,26 @@
 			(type default)
 		)
 		(uuid "0718c3da-5b7c-4c2c-93b8-508936084b1c")
+	)
+	(wire
+		(pts
+			(xy 73.66 116.84) (xy 85.09 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07d3c037-c160-4d44-aac1-b88297a893c4")
+	)
+	(wire
+		(pts
+			(xy 222.25 40.64) (xy 222.25 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07ecffea-e425-49df-a78b-160ddff82b07")
 	)
 	(wire
 		(pts
@@ -1339,7 +1431,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 86.36) (xy 68.58 86.36)
+			(xy 73.66 91.44) (xy 85.09 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1356,16 +1448,6 @@
 			(type default)
 		)
 		(uuid "0cb3d29a-98b1-4a27-b0c4-3824805d1d7a")
-	)
-	(wire
-		(pts
-			(xy 52.07 50.8) (xy 58.42 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0da4d7e6-77f3-469c-b982-7f3bf68dd975")
 	)
 	(wire
 		(pts
@@ -1386,6 +1468,16 @@
 			(type default)
 		)
 		(uuid "0dfb8926-3ab6-44ed-8c94-9c1cea178307")
+	)
+	(wire
+		(pts
+			(xy 73.66 119.38) (xy 85.09 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "101c761e-b1c7-4248-ae86-87c81cd90bcb")
 	)
 	(wire
 		(pts
@@ -1439,7 +1531,17 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 88.9) (xy 68.58 88.9)
+			(xy 224.79 58.42) (xy 231.14 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1987376f-848a-45f9-a80c-d5ea4561a977")
+	)
+	(wire
+		(pts
+			(xy 73.66 93.98) (xy 85.09 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1466,6 +1568,16 @@
 			(type default)
 		)
 		(uuid "1d0938a8-d2de-44ab-88a8-24b5156671ce")
+	)
+	(wire
+		(pts
+			(xy 137.16 59.69) (xy 137.16 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1de0ad3b-c4ea-4aff-a477-3ffd7d9b9e15")
 	)
 	(wire
 		(pts
@@ -1519,16 +1631,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 92.71) (xy 67.31 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22402017-d3e8-41c2-b1fc-319c41fbdb6e")
-	)
-	(wire
-		(pts
 			(xy 163.83 149.86) (xy 168.91 149.86)
 		)
 		(stroke
@@ -1536,6 +1638,26 @@
 			(type default)
 		)
 		(uuid "23e36866-b8fe-41dd-97f0-bb51375d2599")
+	)
+	(wire
+		(pts
+			(xy 222.25 38.1) (xy 222.25 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "241cf8b6-4309-4162-b5e2-a6f981204bec")
+	)
+	(wire
+		(pts
+			(xy 222.25 27.94) (xy 222.25 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b6c12d-24c9-4efd-a0b0-c09ef50eb3fb")
 	)
 	(wire
 		(pts
@@ -1579,6 +1701,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 62.23) (xy 133.35 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28f49976-8a5d-4a41-af0e-74b64405e887")
+	)
+	(wire
+		(pts
 			(xy 214.63 132.08) (xy 214.63 149.86)
 		)
 		(stroke
@@ -1609,6 +1741,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 59.69) (xy 137.16 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d82363f-4e63-4ace-945f-5dfe2f49240f")
+	)
+	(wire
+		(pts
 			(xy 87.63 171.45) (xy 97.79 171.45)
 		)
 		(stroke
@@ -1619,6 +1761,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 63.5) (xy 231.14 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db48c98-8fc9-4a1c-a612-2cf84d5db219")
+	)
+	(wire
+		(pts
 			(xy 53.34 69.85) (xy 54.61 69.85)
 		)
 		(stroke
@@ -1626,6 +1778,16 @@
 			(type default)
 		)
 		(uuid "2eb0d10d-725b-412f-8e5e-30c596de5655")
+	)
+	(wire
+		(pts
+			(xy 213.36 27.94) (xy 213.36 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ee525dd-2a61-46df-abb2-fc3e31c0c1b8")
 	)
 	(wire
 		(pts
@@ -1646,6 +1808,16 @@
 			(type default)
 		)
 		(uuid "2ffbb4a5-a2eb-4125-9f0a-30f3d60157a7")
+	)
+	(wire
+		(pts
+			(xy 213.36 33.02) (xy 213.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "300712e1-e6a0-4e92-bce6-3997d8ea4e9d")
 	)
 	(wire
 		(pts
@@ -1676,6 +1848,26 @@
 			(type default)
 		)
 		(uuid "356c6c8d-0d17-4b1f-afe0-cf8ee1b86e94")
+	)
+	(wire
+		(pts
+			(xy 128.27 46.99) (xy 134.62 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3612761d-a825-476b-afcd-ae6051e9bd60")
+	)
+	(wire
+		(pts
+			(xy 224.79 60.96) (xy 231.14 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "365706fe-f0b2-46dc-8cca-35588a7d06cf")
 	)
 	(wire
 		(pts
@@ -1739,6 +1931,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 102.87) (xy 85.09 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c20d458-1644-494b-a72b-d3cbbe50d1c4")
+	)
+	(wire
+		(pts
 			(xy 163.83 158.75) (xy 163.83 161.29)
 		)
 		(stroke
@@ -1799,6 +2001,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 105.41) (xy 85.09 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4355a868-46ac-4ad3-9d4f-b9741c080fde")
+	)
+	(wire
+		(pts
 			(xy 191.77 149.86) (xy 191.77 137.16)
 		)
 		(stroke
@@ -1816,6 +2028,16 @@
 			(type default)
 		)
 		(uuid "4406b814-4fa8-4e9c-aa7f-01469fd59e34")
+	)
+	(wire
+		(pts
+			(xy 222.25 17.78) (xy 222.25 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45fcf55c-2ab7-43ad-9984-4bc72ffcfeab")
 	)
 	(wire
 		(pts
@@ -1879,16 +2101,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 62.23) (xy 58.42 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e59e17d-2c7a-4fff-881d-f82075629192")
-	)
-	(wire
-		(pts
 			(xy 173.99 149.86) (xy 181.61 149.86)
 		)
 		(stroke
@@ -1906,26 +2118,6 @@
 			(type default)
 		)
 		(uuid "50577137-c1d8-4b1d-bf10-d85dc6d09e7f")
-	)
-	(wire
-		(pts
-			(xy 58.42 114.3) (xy 67.31 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50ac87fb-dc5d-4944-aea7-34579fbfe574")
-	)
-	(wire
-		(pts
-			(xy 49.53 53.34) (xy 58.42 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51a03985-4992-47db-a7bf-8636ce7d29a6")
 	)
 	(wire
 		(pts
@@ -1979,6 +2171,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 55.88) (xy 231.14 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f578a3-e609-449b-9bc6-48f65700d8ef")
+	)
+	(wire
+		(pts
 			(xy 177.8 25.4) (xy 180.34 25.4)
 		)
 		(stroke
@@ -2009,16 +2211,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 123.19) (xy 59.69 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57ee5cac-b9db-4ad4-8b80-0554708f8fd2")
-	)
-	(wire
-		(pts
 			(xy 55.88 171.45) (xy 64.77 171.45)
 		)
 		(stroke
@@ -2029,16 +2221,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 111.76) (xy 67.31 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59b0776a-31ac-464b-b785-ad9f88cea46c")
-	)
-	(wire
-		(pts
 			(xy 81.28 25.4) (xy 83.82 25.4)
 		)
 		(stroke
@@ -2046,6 +2228,16 @@
 			(type default)
 		)
 		(uuid "59e16404-afa9-4240-b597-4c8a378cb1fe")
+	)
+	(wire
+		(pts
+			(xy 222.25 35.56) (xy 222.25 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a80ac7d-b745-479c-bbaf-ae11cab0a398")
 	)
 	(wire
 		(pts
@@ -2089,16 +2281,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 116.84) (xy 67.31 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f309554-b784-4bc5-9bd0-7257d470edb9")
-	)
-	(wire
-		(pts
 			(xy 102.87 171.45) (xy 105.41 171.45)
 		)
 		(stroke
@@ -2139,6 +2321,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 57.15) (xy 139.7 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64abc86b-2c8d-468c-a278-0497a5144a63")
+	)
+	(wire
+		(pts
 			(xy 109.22 25.4) (xy 111.76 25.4)
 		)
 		(stroke
@@ -2146,6 +2338,16 @@
 			(type default)
 		)
 		(uuid "6630d787-c5ae-4e95-ae1c-6961785ffacd")
+	)
+	(wire
+		(pts
+			(xy 224.79 67.31) (xy 231.14 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "678bbb29-70ee-4ef5-9717-d6fdc9a7b74c")
 	)
 	(wire
 		(pts
@@ -2176,16 +2378,6 @@
 			(type default)
 		)
 		(uuid "6b6c2bfc-ef1c-45f6-bc20-48063bab1dff")
-	)
-	(wire
-		(pts
-			(xy 67.31 120.65) (xy 67.31 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c264247-1f39-40f6-850b-7bd6652ea17d")
 	)
 	(wire
 		(pts
@@ -2269,13 +2461,13 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 123.19) (xy 64.77 123.19)
+			(xy 73.66 114.3) (xy 85.09 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "80657276-5bd9-44ca-b114-37d5396ebaa5")
+		(uuid "7e3affad-7d96-46bb-8559-3cc453ac963b")
 	)
 	(wire
 		(pts
@@ -2289,6 +2481,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 52.07) (xy 134.62 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81181502-e8c2-4c3e-90b4-7c5e2cf907c5")
+	)
+	(wire
+		(pts
 			(xy 173.99 149.86) (xy 173.99 151.13)
 		)
 		(stroke
@@ -2299,6 +2501,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 58.42) (xy 58.42 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "828e4210-69b8-4334-8422-64a8a2e1462f")
+	)
+	(wire
+		(pts
 			(xy 204.47 149.86) (xy 204.47 134.62)
 		)
 		(stroke
@@ -2306,6 +2518,46 @@
 			(type default)
 		)
 		(uuid "8320dd2b-11b8-41d6-b775-a3583085d749")
+	)
+	(wire
+		(pts
+			(xy 213.36 30.48) (xy 222.25 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8369a38d-237b-42ee-b72a-3ebecc4e51b0")
+	)
+	(wire
+		(pts
+			(xy 53.34 55.88) (xy 58.42 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8639d760-4bc9-4b77-822c-d3d11954ee9a")
+	)
+	(wire
+		(pts
+			(xy 128.27 44.45) (xy 134.62 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87fcfdef-5196-4b07-a17c-baee1dbdb753")
+	)
+	(wire
+		(pts
+			(xy 133.35 57.15) (xy 139.7 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88af87cf-8dcf-4167-9b63-7fbd87adedc5")
 	)
 	(wire
 		(pts
@@ -2329,6 +2581,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 111.76) (xy 85.09 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d14a4db-1a5d-400d-8e21-e1a83f417ca8")
+	)
+	(wire
+		(pts
 			(xy 86.36 25.4) (xy 88.9 25.4)
 		)
 		(stroke
@@ -2339,16 +2601,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 119.38) (xy 67.31 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e5be98e-d1ee-4da7-bee3-9c09cb1fa874")
-	)
-	(wire
-		(pts
 			(xy 185.42 158.75) (xy 185.42 161.29)
 		)
 		(stroke
@@ -2356,16 +2608,6 @@
 			(type default)
 		)
 		(uuid "8eaba476-2a20-43fa-8bc5-2ec710c6324a")
-	)
-	(wire
-		(pts
-			(xy 62.23 95.25) (xy 64.77 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f2b2f14-98ca-408c-94d6-4a948a8a4d5c")
 	)
 	(wire
 		(pts
@@ -2459,6 +2701,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 50.8) (xy 58.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cc962f8-96b5-4240-9cf1-502bf1c780fd")
+	)
+	(wire
+		(pts
 			(xy 184.15 25.4) (xy 186.69 25.4)
 		)
 		(stroke
@@ -2539,7 +2791,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 83.82) (xy 68.58 83.82)
+			(xy 73.66 88.9) (xy 85.09 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2549,13 +2801,13 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 67.31 92.71)
+			(xy 222.25 43.18) (xy 222.25 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a83bdaef-b3cb-4d1b-ae34-67e489b7fb29")
+		(uuid "a97d6af5-b530-4a48-acc0-67683d0521ef")
 	)
 	(wire
 		(pts
@@ -2609,6 +2861,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 22.86) (xy 222.25 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba7a1b2b-b6c0-44c2-928d-0148a695f3f0")
+	)
+	(wire
+		(pts
 			(xy 64.77 171.45) (xy 67.31 171.45)
 		)
 		(stroke
@@ -2616,6 +2878,16 @@
 			(type default)
 		)
 		(uuid "baf25f5c-f7f1-40c8-b198-3fa62f9e49af")
+	)
+	(wire
+		(pts
+			(xy 222.25 20.32) (xy 222.25 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4d2ae5-91bd-4c02-8929-791248221be1")
 	)
 	(wire
 		(pts
@@ -2639,6 +2911,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 33.02) (xy 222.25 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c00ba0ff-5621-475d-9c39-8b1165b550cb")
+	)
+	(wire
+		(pts
 			(xy 196.85 147.32) (xy 196.85 149.86)
 		)
 		(stroke
@@ -2659,6 +2941,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 69.85) (xy 231.14 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3c2e4a1-3521-4e49-9971-a92bc8cb6d7e")
+	)
+	(wire
+		(pts
 			(xy 190.5 106.68) (xy 190.5 99.06)
 		)
 		(stroke
@@ -2666,6 +2958,16 @@
 			(type default)
 		)
 		(uuid "c46b5356-08a8-4693-91fc-df27206d56c5")
+	)
+	(wire
+		(pts
+			(xy 222.25 33.02) (xy 222.25 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c66f8767-ba27-44cf-83ff-a3a0ca726b22")
 	)
 	(wire
 		(pts
@@ -2699,6 +3001,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 72.39) (xy 231.14 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca5f6af6-8a3e-44cb-8b03-e38af46e75cf")
+	)
+	(wire
+		(pts
 			(xy 116.84 25.4) (xy 120.65 25.4)
 		)
 		(stroke
@@ -2729,7 +3041,27 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 91.44) (xy 68.58 91.44)
+			(xy 222.25 25.4) (xy 222.25 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d131ce55-5fb2-4d2f-8289-27b8180c81fa")
+	)
+	(wire
+		(pts
+			(xy 137.16 64.77) (xy 133.35 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1e122ad-0f39-42ff-aa52-b893e0d87312")
+	)
+	(wire
+		(pts
+			(xy 73.66 96.52) (xy 85.09 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2759,6 +3091,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 100.33) (xy 85.09 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da63b169-7567-48ee-93d6-b9016f7b4879")
+	)
+	(wire
+		(pts
 			(xy 128.27 25.4) (xy 132.08 25.4)
 		)
 		(stroke
@@ -2766,16 +3108,6 @@
 			(type default)
 		)
 		(uuid "dca7fcf5-42a8-4da8-bce9-2689dc5b2f7e")
-	)
-	(wire
-		(pts
-			(xy 59.69 120.65) (xy 67.31 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de807483-4324-4ace-819d-5372b784ed98")
 	)
 	(wire
 		(pts
@@ -2809,6 +3141,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 53.34) (xy 58.42 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2bafa77-4d75-449e-97ca-cfe7a6eff6cf")
+	)
+	(wire
+		(pts
 			(xy 49.53 27.94) (xy 49.53 53.34)
 		)
 		(stroke
@@ -2819,13 +3161,13 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 95.25) (xy 59.69 92.71)
+			(xy 73.66 107.95) (xy 85.09 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e7c126d6-4076-49d5-8a6f-0f57d19dd640")
+		(uuid "e71b74d1-ee3a-454d-b205-e84737e1666e")
 	)
 	(wire
 		(pts
@@ -2939,6 +3281,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 49.53) (xy 134.62 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1cfa1af-c78a-4821-bf6d-5732e6b001b7")
+	)
+	(wire
+		(pts
 			(xy 217.17 147.32) (xy 217.17 149.86)
 		)
 		(stroke
@@ -2988,78 +3340,9 @@
 		(uuid "ff67a870-667b-4da3-9d6e-d1b0fe95b4b1")
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 173.99 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "02d58f21-296a-4390-989b-60a579c53f17")
-		(property "Reference" "R4"
-			(at 176.53 142.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 176.53 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 172.212 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 173.99 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6b33bfe9-e038-4672-8521-542d168c8c18")
-		)
-		(pin "1"
-			(uuid "d9eb5244-a683-489b-8f0a-12d05054f85a")
-		)
-		(instances
-			(project "FBG_PCB"
-				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 53.34 114.3 0)
+		(at 90.17 114.3 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3067,7 +3350,7 @@
 		(dnp no)
 		(uuid "0b2ee207-ee91-47bf-926b-5fcde7d4d9fc")
 		(property "Reference" "J29"
-			(at 52.07 116.8401 0)
+			(at 91.44 116.8401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3359,7 @@
 			)
 		)
 		(property "Value" "Trig In"
-			(at 52.07 114.3001 0)
+			(at 91.44 114.3001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3085,7 +3368,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 53.34 114.3 0)
+			(at 90.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3094,7 +3377,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 114.3 0)
+			(at 90.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3103,7 +3386,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 53.34 114.3 0)
+			(at 90.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3207,35 +3490,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 207.01 154.94 0)
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 227.33 20.32 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "17d62a55-161d-4f84-9841-bcfcaa6c2972")
-		(property "Reference" "R15"
-			(at 209.55 153.6699 0)
+		(uuid "0d7028ad-01a8-434b-ad4b-5488859dea45")
+		(property "Reference" "J33"
+			(at 234.442 17.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 209.55 156.2099 0)
+		(property "Value" "I2C SCL In"
+			(at 235.8078 22.0602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 205.232 154.94 90)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 227.33 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3244,7 +3525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 154.94 0)
+			(at 227.33 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3252,25 +3533,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 207.01 154.94 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 227.33 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "4"
+			(uuid "2538aa88-487a-41d6-8c6b-b4a28e707186")
 		)
 		(pin "2"
-			(uuid "f519119d-6f4e-4ae6-b52b-8334fb73cd9a")
+			(uuid "67677ca4-75b7-43de-8beb-362fbe4098d4")
+		)
+		(pin "3"
+			(uuid "8ad6ed67-4aeb-4740-ba33-529dab789b23")
 		)
 		(pin "1"
-			(uuid "358c94fe-1470-4223-a8f1-b48fa7389945")
+			(uuid "8c87045b-bfc6-4acd-bf54-93639d57d841")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R15")
+					(reference "J33")
 					(unit 1)
 				)
 			)
@@ -3516,7 +3803,7 @@
 				)
 			)
 		)
-		(property "Value" "Pont diviseur Echo In 1-4"
+		(property "Value" "Pont diviseur Echo Out 1-4"
 			(at 146.05 91.44 90)
 			(effects
 				(font
@@ -3574,16 +3861,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 163.83 154.94 0)
+		(at 173.99 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2afca722-16fc-463b-b8d5-fa22b297b93e")
-		(property "Reference" "R7"
-			(at 166.37 153.6699 0)
+		(uuid "21fd79cf-e272-4502-83cb-d82bdd6bdf11")
+		(property "Reference" "R1"
+			(at 176.53 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3592,7 +3879,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 166.37 156.2099 0)
+			(at 176.53 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3600,8 +3887,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 162.052 154.94 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 172.212 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3610,7 +3897,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 154.94 0)
+			(at 173.99 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3619,7 +3906,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 163.83 154.94 0)
+			(at 173.99 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,15 +3915,89 @@
 			)
 		)
 		(pin "2"
-			(uuid "753108c2-379e-4f5a-9319-5794c74ee039")
+			(uuid "d0b77a88-e5f8-4b43-be1a-7c8116c88ca0")
 		)
 		(pin "1"
-			(uuid "3624ec8b-a8fc-48f0-87a2-a06b8e78ac8c")
+			(uuid "0b95fa04-540e-475b-8ac0-4ce14e13d0e9")
+		)
+		(instances
+			(project ""
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 236.22 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b4bacf2-4874-4b96-bee7-b845e8a18011")
+		(property "Reference" "J40"
+			(at 243.332 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Bonus In"
+			(at 249.936 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 236.22 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 236.22 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "09579980-5c7f-4d5b-b656-a5f04ef6469b")
+		)
+		(pin "2"
+			(uuid "c1e1f95b-fbaf-46cb-b822-3af317705a87")
+		)
+		(pin "3"
+			(uuid "c5f8b430-55b3-4bd6-b474-4da99d5a3f77")
+		)
+		(pin "1"
+			(uuid "a5911da0-b0ed-439d-90c8-d0922d790005")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R7")
+					(reference "J40")
 					(unit 1)
 				)
 			)
@@ -3711,95 +4072,24 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 196.85 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "32d9fd2c-de6a-4ce0-804c-5cf73c398774")
-		(property "Reference" "R14"
-			(at 199.39 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 199.39 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 195.072 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 196.85 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dc8c9a38-1eb0-4013-aaa7-b2750c6b5f78")
-		)
-		(pin "1"
-			(uuid "b18b172b-d925-4c08-adcd-20eb83b56487")
-		)
-		(instances
-			(project "FBG_PCB"
-				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 62.23 128.27 90)
+		(at 208.28 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ab238da-b9ec-4dd5-8c38-900d75fda819")
-		(property "Reference" "J30"
-			(at 63.5 130.81 90)
+		(uuid "3495abf6-a4d1-40b6-85be-a155a2a9156f")
+		(property "Reference" "J32"
+			(at 201.168 27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Trig In + Out"
-			(at 63.5 133.35 90)
+		(property "Value" "I2C Out"
+			(at 199.8022 32.2202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +4097,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 62.23 128.27 0)
+			(at 208.28 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3816,7 +4106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 128.27 0)
+			(at 208.28 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3825,7 +4115,155 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 62.23 128.27 0)
+			(at 208.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "301ccc26-33c7-4062-96d0-da0d029eec2a")
+		)
+		(pin "2"
+			(uuid "5a094d74-22ee-45cf-8ed4-6ef99528b8bb")
+		)
+		(pin "3"
+			(uuid "27f1a0cc-6455-472e-a4ea-0e23704be3a5")
+		)
+		(pin "1"
+			(uuid "6985e6ae-d28d-4817-8ff9-8ce15d057475")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 227.33 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36c3f48f-cd1e-4799-9146-f818906a656c")
+		(property "Reference" "J35"
+			(at 234.442 37.592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "I2C SDA In"
+			(at 235.8078 42.3802 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 227.33 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 227.33 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "2ac367f0-e3e9-4547-91c8-5d040f438831")
+		)
+		(pin "2"
+			(uuid "2fb35fc0-bed3-4dc5-98dd-d89fddb8f8c4")
+		)
+		(pin "3"
+			(uuid "0bf9aa62-8c84-47ee-abf3-67e4e1f17c36")
+		)
+		(pin "1"
+			(uuid "5ea3dc22-03d8-4339-81b5-ff073dc14e24")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 90.17 102.87 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ab238da-b9ec-4dd5-8c38-900d75fda819")
+		(property "Reference" "J30"
+			(at 99.568 101.854 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Control Driver Motor In + Trig In"
+			(at 108.204 104.648 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 90.17 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 90.17 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,76 +4294,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 173.99 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3af81fed-8344-484d-b766-8b8f53173b0f")
-		(property "Reference" "R8"
-			(at 176.53 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 176.53 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 172.212 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c81f08c8-bba9-4eef-82d5-2ab47dbf74c0")
-		)
-		(pin "1"
-			(uuid "32ced817-d5e7-4484-98d6-85a5215ace8e")
-		)
-		(instances
-			(project "FBG_PCB"
-				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 153.67 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3933,8 +4301,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4ade106f-76b8-4d74-8e6b-b39df0216f83")
-		(property "Reference" "R6"
+		(uuid "3c9ebb03-03e6-4e3b-8a00-6275438816d2")
+		(property "Reference" "R7"
 			(at 156.21 153.6699 0)
 			(effects
 				(font
@@ -3952,7 +4320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 151.892 154.94 90)
 			(effects
 				(font
@@ -3980,15 +4348,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "fe623f98-cfd1-4a18-826e-9bc3e4463607")
+			(uuid "d46cfa48-dcd7-480d-a2fa-03450788d881")
 		)
 		(pin "1"
-			(uuid "b6419259-53e8-426e-b2e9-df60f53fc72b")
+			(uuid "378d6747-c0af-4be5-8415-7f3905da35f0")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3996,16 +4364,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 196.85 143.51 0)
+		(at 173.99 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5b363df3-f944-4796-8461-a2dbdd88cc00")
-		(property "Reference" "R10"
-			(at 199.39 142.2399 0)
+		(uuid "4a8aff4b-9372-4e48-b1f6-eb211ea850bb")
+		(property "Reference" "R5"
+			(at 176.53 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4014,7 +4382,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 199.39 144.7799 0)
+			(at 176.53 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4022,8 +4390,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 195.072 143.51 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 172.212 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4032,7 +4400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 143.51 0)
+			(at 173.99 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4041,7 +4409,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 196.85 143.51 0)
+			(at 173.99 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4050,15 +4418,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "1e4bd336-f6a4-45b8-afeb-46538c683a0a")
+			(uuid "30cc538c-f1ea-40be-9cc4-90406dccbe47")
 		)
 		(pin "1"
-			(uuid "12d687d9-25ed-4470-83f0-3a0280bbb895")
+			(uuid "c868b995-1fa0-485a-9eb1-1767c255e4dc")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R10")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4139,35 +4507,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 207.01 143.51 0)
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 139.7 46.99 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68c8bd95-81ea-4705-99de-04c84d12eaee")
-		(property "Reference" "R11"
-			(at 209.55 142.2399 0)
+		(uuid "738478dc-b121-4e28-a6a9-3cf3f9a84f3c")
+		(property "Reference" "J38"
+			(at 146.812 43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 209.55 144.7799 0)
+		(property "Value" "Encoder M1 +M2 In"
+			(at 153.416 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 205.232 143.51 90)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 139.7 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4176,7 +4542,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 143.51 0)
+			(at 139.7 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,25 +4550,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 207.01 143.51 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 139.7 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "4"
+			(uuid "968b2e59-0294-4112-b259-74b3a83a2dfc")
 		)
 		(pin "2"
-			(uuid "4dbf8e5b-e864-4240-ab27-e26ada6d9eef")
+			(uuid "66288100-097e-4906-a73d-876c004b2ea7")
+		)
+		(pin "3"
+			(uuid "23eaed26-ed0f-4b34-878f-11310cd269a5")
 		)
 		(pin "1"
-			(uuid "4132ca0f-aac6-4314-976a-ce2784f8f0a0")
+			(uuid "21789ace-8209-4275-965f-04e7ff999f54")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R11")
+					(reference "J38")
 					(unit 1)
 				)
 			)
@@ -4284,24 +4656,23 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 62.23 100.33 90)
+		(at 68.58 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "76bf630c-5e94-4f0b-8193-19dac3c17836")
 		(property "Reference" "J27"
-			(at 63.5 102.87 90)
+			(at 64.262 101.854 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Control Driver Motor In +Out"
-			(at 63.5 105.41 90)
+		(property "Value" "Control Driver Motor Out + Trig Out"
+			(at 51.054 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4309,7 +4680,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 62.23 100.33 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4318,7 +4689,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 100.33 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4327,7 +4698,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 62.23 100.33 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4357,33 +4728,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 52.07 86.36 0)
+		(lib_id "Device:R")
+		(at 185.42 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7c3637de-b639-4ae7-a49f-208db2fdd4c6")
-		(property "Reference" "J26"
-			(at 52.705 78.74 0)
+		(uuid "78af2a0b-82a9-496e-becf-f5bf96d01817")
+		(property "Reference" "R12"
+			(at 187.96 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "Control Driver Motor In"
-			(at 52.705 81.28 0)
+		(property "Value" "R"
+			(at 187.96 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 52.07 86.36 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 183.642 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +4765,74 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 86.36 0)
+			(at 185.42 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 185.42 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ddfbf8ca-723e-471f-8e41-4ee550006b7e")
+		)
+		(pin "1"
+			(uuid "f8f6d633-33de-4397-b64f-006c71bd0c31")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 68.58 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c3637de-b639-4ae7-a49f-208db2fdd4c6")
+		(property "Reference" "J26"
+			(at 61.468 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Control Driver Motor Out"
+			(at 52.578 93.218 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 68.58 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4401,7 +4841,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 52.07 86.36 0)
+			(at 68.58 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4431,35 +4871,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 72.39 114.3 0)
-		(mirror y)
+		(lib_id "Device:R")
+		(at 185.42 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8112f251-e03b-4ad0-9728-f7dea8daf762")
-		(property "Reference" "J31"
-			(at 73.66 116.8401 0)
+		(fields_autoplaced yes)
+		(uuid "7d206cd3-a2b4-43a2-887a-1e25eb06680e")
+		(property "Reference" "R16"
+			(at 187.96 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "Trig Out"
-			(at 73.66 114.3001 0)
+		(property "Value" "R"
+			(at 187.96 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 72.39 114.3 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 183.642 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4468,7 +4908,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 114.3 0)
+			(at 185.42 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 185.42 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eae0c241-492e-41b6-ba01-d47a46fd8d99")
+		)
+		(pin "1"
+			(uuid "8d6a9f51-8b17-4ecc-8993-1e82167eff08")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 68.58 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8112f251-e03b-4ad0-9728-f7dea8daf762")
+		(property "Reference" "J31"
+			(at 67.31 116.8401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Trig Out"
+			(at 67.31 114.3001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 68.58 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4477,7 +4986,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 72.39 114.3 0)
+			(at 68.58 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4575,76 +5084,6 @@
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
 					(reference "J20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 163.83 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89d03de2-bd7a-413d-8033-9e4a2fc03bd6")
-		(property "Reference" "R3"
-			(at 166.37 142.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 166.37 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 162.052 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 163.83 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 163.83 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d69fb553-e512-45d6-a3e8-6caca2893dbd")
-		)
-		(pin "1"
-			(uuid "54099b56-354c-4fd8-9e92-545f086677cc")
-		)
-		(instances
-			(project "FBG_PCB"
-				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4799,35 +5238,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 217.17 143.51 0)
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 128.27 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "912a3324-ee5a-4b0b-b4a6-95f43041bbf9")
-		(property "Reference" "R12"
-			(at 219.71 142.2399 0)
+		(uuid "8ed57f74-39c3-4d9a-81ff-a137d39de0e2")
+		(property "Reference" "J36"
+			(at 121.158 56.642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 219.71 144.7799 0)
+		(property "Value" "Control Motor CanLift Out +In"
+			(at 114.554 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 215.392 143.51 90)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 128.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4836,7 +5272,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 217.17 143.51 0)
+			(at 128.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,25 +5280,105 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 217.17 143.51 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 128.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "4"
+			(uuid "9587effd-ac9c-413a-a745-39d3455ef6cf")
 		)
 		(pin "2"
-			(uuid "9e38d78d-ecf5-4da7-8550-90806e1e1358")
+			(uuid "e3789591-4629-4ff2-a521-1d2adf811d83")
+		)
+		(pin "3"
+			(uuid "ad1be7bb-a8d5-4209-914b-1294ad7c2792")
 		)
 		(pin "1"
-			(uuid "c31f6c22-e24f-4144-b8ef-d67e11d47107")
+			(uuid "0f2c5a50-8a03-4559-8fdd-34d2e71b560e")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R12")
+					(reference "J36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 227.33 30.48 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "926084b9-93d9-4c9f-8e8a-b2f0bd123e99")
+		(property "Reference" "J34"
+			(at 234.442 27.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "I2C SCL In +SDA In"
+			(at 238.506 32.258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "b045149b-51f5-422e-867d-1d7549491b69")
+		)
+		(pin "2"
+			(uuid "ea69cbbe-a4d7-43aa-b623-0fc7e2deed5d")
+		)
+		(pin "3"
+			(uuid "1813ea7b-18a1-49ad-a98f-97f1e33e1fcc")
+		)
+		(pin "1"
+			(uuid "13efe64a-9439-460e-93e6-271db8f08542")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J34")
 					(unit 1)
 				)
 			)
@@ -4870,16 +5386,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 217.17 154.94 0)
+		(at 153.67 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "962dcac0-80fa-451c-b5ab-22db916612cd")
-		(property "Reference" "R16"
-			(at 219.71 153.6699 0)
+		(uuid "9617ee21-5d6b-4c97-b1c2-9f44e8499d3d")
+		(property "Reference" "R3"
+			(at 156.21 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4888,7 +5404,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 219.71 156.2099 0)
+			(at 156.21 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4896,8 +5412,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 215.392 154.94 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 151.892 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4906,7 +5422,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 217.17 154.94 0)
+			(at 153.67 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4915,7 +5431,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 217.17 154.94 0)
+			(at 153.67 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4924,15 +5440,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "27045ec8-cafa-4c0c-8f6f-4b6a68975bc0")
+			(uuid "019c5e89-150b-469d-8f55-93c6b45f9649")
 		)
 		(pin "1"
-			(uuid "35a887e7-8cb8-4a42-b3d4-f256f7078e2c")
+			(uuid "4a577dac-95a0-4db1-905f-859c9509e5c2")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R16")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -5082,16 +5598,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 142.24 154.94 0)
+		(at 207.01 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a0ab30f3-9e18-4e3a-825a-dacd80b3e5e1")
-		(property "Reference" "R5"
-			(at 144.78 153.6699 0)
+		(uuid "a4afc11c-b23b-4080-919a-746e242cf560")
+		(property "Reference" "R14"
+			(at 209.55 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5100,7 +5616,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 144.78 156.2099 0)
+			(at 209.55 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,8 +5624,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 140.462 154.94 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5634,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 154.94 0)
+			(at 207.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5127,7 +5643,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 142.24 154.94 0)
+			(at 207.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5136,15 +5652,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "4bcc0bf8-58a6-422e-8ad2-970cfb5b7a66")
+			(uuid "1262cc57-fbf5-444c-8819-9e1aa1529630")
 		)
 		(pin "1"
-			(uuid "e77374b3-6907-4d7f-9a2b-87c657ffda04")
+			(uuid "0ad9d648-c2e8-4aca-88aa-fe8d93193c2f")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R5")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -5227,7 +5743,8 @@
 	(symbol
 		(lib_name "Conn_01x04_Pin_1")
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 63.5 55.88 180)
+		(at 63.5 53.34 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5235,7 +5752,7 @@
 		(dnp no)
 		(uuid "a728313a-5c6a-49e8-9f02-1fa34c86bf9e")
 		(property "Reference" "J11"
-			(at 77.47 49.022 0)
+			(at 73.914 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5761,7 @@
 			)
 		)
 		(property "Value" "Buck converter   17V/5V"
-			(at 71.12 53.34 0)
+			(at 66.802 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +5770,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 63.5 55.88 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,7 +5779,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 55.88 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5271,7 +5788,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 63.5 55.88 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5450,16 +5967,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 185.42 143.51 0)
+		(at 217.17 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b1ec8124-9c0c-454f-b910-12cfd1134393")
+		(uuid "b1cf2a1c-d138-4300-a070-cacd2c5984f3")
 		(property "Reference" "R9"
-			(at 187.96 142.2399 0)
+			(at 219.71 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5468,7 +5985,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 187.96 144.7799 0)
+			(at 219.71 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5476,8 +5993,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 183.642 143.51 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 215.392 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5486,7 +6003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 143.51 0)
+			(at 217.17 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +6012,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 185.42 143.51 0)
+			(at 217.17 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,85 +6021,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "c64cce2c-984c-4a9b-a041-1c09bd6678dc")
+			(uuid "3ee87af0-5051-419a-a612-b533d25074de")
 		)
 		(pin "1"
-			(uuid "313fb138-dc10-48ec-a0cd-deee780b9a7f")
+			(uuid "0af2570c-6897-4a4d-a5c3-ded7430218f0")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 142.24 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b31f9b4d-6cec-4091-986c-0bd950eaca11")
-		(property "Reference" "R1"
-			(at 144.78 142.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 144.78 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 140.462 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 142.24 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "343a2c7e-50b9-4679-945b-c98864c96883")
-		)
-		(pin "1"
-			(uuid "2f6108f6-0963-4ff7-8c13-725ce50cb693")
-		)
-		(instances
-			(project ""
-				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -5606,7 +6053,7 @@
 				)
 			)
 		)
-		(property "Value" "Echo Out 1-4"
+		(property "Value" "Echo In 1-4"
 			(at 233.045 111.76 0)
 			(effects
 				(font
@@ -5664,7 +6111,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 73.66 86.36 0)
+		(at 90.17 91.44 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5673,7 +6120,7 @@
 		(dnp no)
 		(uuid "bd65a390-bc0b-4c4a-92cc-79aff7cc515e")
 		(property "Reference" "J28"
-			(at 74.93 88.9001 0)
+			(at 91.44 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5681,8 +6128,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Control Driver Motor Out"
-			(at 74.93 86.3601 0)
+		(property "Value" "Control Driver Motor In"
+			(at 91.44 91.4401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5691,7 +6138,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
-			(at 73.66 86.36 0)
+			(at 90.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5700,7 +6147,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 86.36 0)
+			(at 90.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5709,7 +6156,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 73.66 86.36 0)
+			(at 90.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5814,6 +6261,153 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
+		(at 219.71 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c895ce80-c67f-48a1-a3f8-e0beae040775")
+		(property "Reference" "J41"
+			(at 212.598 66.802 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Bonus Out"
+			(at 205.994 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "45996ef3-d469-4e1a-96aa-b4ed669e0281")
+		)
+		(pin "2"
+			(uuid "c0a2b2bc-cabd-48e1-ad70-74749578c3f1")
+		)
+		(pin "3"
+			(uuid "0062ef3f-aab5-49bc-9935-95091926b169")
+		)
+		(pin "1"
+			(uuid "2fe9df1e-09c0-40f4-8026-3a2d781ff034")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 236.22 69.85 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca9478c2-7142-4215-a5d1-389be48bb3b5")
+		(property "Reference" "J42"
+			(at 243.332 66.802 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Bonus In"
+			(at 249.936 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 236.22 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 236.22 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d5fb13ee-6df2-4b93-b915-f88e146fac31")
+		)
+		(pin "2"
+			(uuid "380d5c4b-bd14-4056-9098-b20f4fae9de0")
+		)
+		(pin "3"
+			(uuid "567922fe-616d-4143-bb09-5ffaa00e69d1")
+		)
+		(pin "1"
+			(uuid "97d1b4a9-4dbd-4fc5-a01e-61df69f16948")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
 		(at 114.3 176.53 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5888,16 +6482,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 153.67 143.51 0)
+		(at 196.85 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d3eecb59-9b76-4102-b08e-f41544841498")
-		(property "Reference" "R2"
-			(at 156.21 142.2399 0)
+		(uuid "d354da97-9f17-4a26-aade-13af751657ee")
+		(property "Reference" "R11"
+			(at 199.39 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,7 +6500,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 156.21 144.7799 0)
+			(at 199.39 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5914,8 +6508,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 151.892 143.51 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 195.072 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5924,7 +6518,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 143.51 0)
+			(at 196.85 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5933,7 +6527,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 153.67 143.51 0)
+			(at 196.85 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5942,15 +6536,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "0f057e62-ebad-41b1-b4d8-35e4ccf79df8")
+			(uuid "f689b5ac-4124-4741-a544-1bc2351a8ce0")
 		)
 		(pin "1"
-			(uuid "c2e5d7a0-3c8a-413e-b812-88444e0bcecf")
+			(uuid "9fb827b1-b3b3-4481-a6bf-f5efdc2ed2d1")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R2")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -6050,7 +6644,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Echo Out 5-8"
+		(property "Value" "Echo In 5-8"
 			(at 228.854 140.716 0)
 			(effects
 				(font
@@ -6182,35 +6776,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 185.42 154.94 0)
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 219.71 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "efa18311-7994-4cd3-afb1-9247771a94ea")
-		(property "Reference" "R13"
-			(at 187.96 153.6699 0)
+		(uuid "ea52335b-b48b-426f-aa1e-bf671f0351e2")
+		(property "Reference" "J39"
+			(at 212.598 55.372 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 187.96 156.2099 0)
+		(property "Value" "Bonus Out"
+			(at 205.994 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P25.40mm_Horizontal"
-			(at 183.642 154.94 90)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 219.71 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6219,7 +6810,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 154.94 0)
+			(at 219.71 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6227,25 +6818,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 185.42 154.94 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 219.71 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "4"
+			(uuid "cc8c94a6-56ed-4671-bcec-48e41ce85c0a")
 		)
 		(pin "2"
-			(uuid "58e8e295-17ae-4059-a540-775be47e6c1f")
+			(uuid "d47d15b2-ceb8-4891-9725-b6c224ad83fa")
+		)
+		(pin "3"
+			(uuid "968d212e-66fa-4548-80e3-cbfebb68cbf8")
 		)
 		(pin "1"
-			(uuid "b8e9fb51-abba-45ba-abb1-39ecb3f10fe1")
+			(uuid "e00e49ca-d5e8-4aa1-bf23-23e2b7331a01")
 		)
 		(instances
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
-					(reference "R13")
+					(reference "J39")
 					(unit 1)
 				)
 			)
@@ -6269,7 +6866,7 @@
 				)
 			)
 		)
-		(property "Value" "Pont diviseur Echo In 5-8"
+		(property "Value" "Pont diviseur Echo Out 5-8"
 			(at 189.23 91.44 90)
 			(effects
 				(font
@@ -6320,6 +6917,569 @@
 			(project "FBG_PCB"
 				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
 					(reference "J23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 196.85 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2457caa-9ff2-4bac-80f4-543c7bf471bb")
+		(property "Reference" "R15"
+			(at 199.39 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 199.39 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 195.072 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 196.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "30504ff6-2198-4a0f-94ee-dd1d0060f0c6")
+		)
+		(pin "1"
+			(uuid "0fe55c67-d2a4-4d8b-83ab-6bd9b45dcf88")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 163.83 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3a2d1aa-113f-4e04-9ae6-ed8f3624a79b")
+		(property "Reference" "R6"
+			(at 166.37 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 166.37 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 162.052 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 163.83 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "825c4f85-27d5-42d0-8032-3d1505df285b")
+		)
+		(pin "1"
+			(uuid "c1dd4dbf-b887-412f-ba81-792f22543e31")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 163.83 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3fba39e-884a-44a7-a986-3c39d8a5a020")
+		(property "Reference" "R2"
+			(at 166.37 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 166.37 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 162.052 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 163.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "df0e74c5-5be7-4775-a3de-5870ff311ea8")
+		)
+		(pin "1"
+			(uuid "0af097dc-44f8-408d-a042-d28e42c35342")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 207.01 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5051507-19cc-44e4-9cc9-12d85dcd7dbf")
+		(property "Reference" "R10"
+			(at 209.55 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 209.55 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 207.01 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aa81e07a-c711-45b5-8c82-36acca36d6b3")
+		)
+		(pin "1"
+			(uuid "53ede2de-a63c-4d5f-88d9-3f13f4373c30")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 142.24 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f555ab0c-c5de-4ae3-99c9-2f61c645469d")
+		(property "Reference" "R8"
+			(at 144.78 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 144.78 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 140.462 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "69af6425-5fdd-4e6c-b549-a30409a61d06")
+		)
+		(pin "1"
+			(uuid "149f84c2-3049-49e4-8421-7fd4441103a6")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 217.17 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f59c312e-8cff-4870-a8d9-9ea8314a81de")
+		(property "Reference" "R13"
+			(at 219.71 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 219.71 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 215.392 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 217.17 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 217.17 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aae6cf4c-a5b1-43e1-9233-a1edf98774a3")
+		)
+		(pin "1"
+			(uuid "0efce739-4788-423a-b3da-5563ebf03ff5")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 142.24 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f63df673-92d3-42da-a9cb-d45150c704a5")
+		(property "Reference" "R4"
+			(at 144.78 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 144.78 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 140.462 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 142.24 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "afa6a541-d7ed-4f81-9eec-10e6b3a37267")
+		)
+		(pin "1"
+			(uuid "c5018405-1f48-4d59-a5fb-cd338afdd5a6")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 123.19 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbbabe44-b897-469b-80db-27c3aa0a8c7d")
+		(property "Reference" "J37"
+			(at 116.078 43.942 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Encoder M1 +M2 Out"
+			(at 109.474 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical"
+			(at 123.19 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 123.19 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "aed0cfde-87a0-4f3d-b1c3-f3a6e242a676")
+		)
+		(pin "2"
+			(uuid "76d74903-15f6-4122-a764-88655edf4b91")
+		)
+		(pin "3"
+			(uuid "1e705019-4d90-4cf8-bc39-c87a818f85c9")
+		)
+		(pin "1"
+			(uuid "172daca6-7925-4782-965e-7d6d5a79009f")
+		)
+		(instances
+			(project "FBG_PCB"
+				(path "/ca9eea56-7f7f-48b3-8a9c-408828fbdab9"
+					(reference "J37")
 					(unit 1)
 				)
 			)
