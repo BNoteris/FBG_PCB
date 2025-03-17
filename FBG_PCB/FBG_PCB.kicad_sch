@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "ca9eea56-7f7f-48b3-8a9c-408828fbdab9")
 	(paper "A4")
+	(title_block
+		(title "PCB Board Eurobot FBG Team")
+		(date "16/03/2025")
+		(rev "1.0")
+		(company "Noteris Corporation")
+	)
 	(lib_symbols
 		(symbol "Conn_01x04_Pin_1"
 			(pin_names
@@ -3803,7 +3809,7 @@
 				)
 			)
 		)
-		(property "Value" "Pont diviseur Echo Out 1-4"
+		(property "Value" "Echo Out 1-4"
 			(at 146.05 91.44 90)
 			(effects
 				(font
@@ -4236,8 +4242,8 @@
 				)
 			)
 		)
-		(property "Value" "Control Driver Motor In + Trig In"
-			(at 108.204 104.648 0)
+		(property "Value" "Driver Motor In + Trig In"
+			(at 102.87 104.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4671,7 +4677,7 @@
 				)
 			)
 		)
-		(property "Value" "Control Driver Motor Out + Trig Out"
+		(property "Value" "Driver Motor Out + Trig Out"
 			(at 51.054 105.156 0)
 			(effects
 				(font
@@ -4814,7 +4820,7 @@
 				)
 			)
 		)
-		(property "Value" "Control Driver Motor Out"
+		(property "Value" "Driver Motor Out"
 			(at 52.578 93.218 0)
 			(effects
 				(font
@@ -5254,7 +5260,7 @@
 				)
 			)
 		)
-		(property "Value" "Control Motor CanLift Out +In"
+		(property "Value" "Motor CanLift Out +In"
 			(at 114.554 59.69 0)
 			(effects
 				(font
@@ -6128,7 +6134,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Control Driver Motor In"
+		(property "Value" "Driver Motor In"
 			(at 91.44 91.4401 0)
 			(effects
 				(font
@@ -6866,7 +6872,7 @@
 				)
 			)
 		)
-		(property "Value" "Pont diviseur Echo Out 5-8"
+		(property "Value" "Echo Out 5-8"
 			(at 189.23 91.44 90)
 			(effects
 				(font
